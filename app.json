@@ -42,7 +42,8 @@
           "icon": "./@resources/push_icon.png",
           "color": "#ffffff"
         }
-      ]
+      ],
+      "expo-build-properties"
     ],
     "extra": {
       "eas": {
